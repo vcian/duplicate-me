@@ -34,6 +34,7 @@
 ## Frequently Asked Questions 
 
  <strong>How can I use this plugin?</strong>
+ <br>
  You can find duplicate Me option besides view in column list of pages, posts and custom post types.
 
 

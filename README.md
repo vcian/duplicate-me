@@ -40,8 +40,6 @@
 
 ## Changelog
 1.0.0  * First public release.
-1.0.0  * Support to custom post types
-1.0.0  * Compatible with your latest wordpress version
 
 ## Upgrade Notice 
 1.0.0 Added plugin support
